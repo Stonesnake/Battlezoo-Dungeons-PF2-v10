@@ -1,0 +1,60 @@
+{
+  "name": "battlezoo-ancestries-dungeons-pf2e",
+  "title": "Battlezoo Ancestries: Dungeons for Pathfinder 2e by Roll for Combat",
+  "description": "Now, you are the dungeon! With Battlezoo Ancestries Dungeons, the power of dungeons is in your hands. With the dungeon ancestry, play as a dungeon who awakened to sentience and then sapience, with a life force, a spirit, and even an avatar that you can use to interact with the world. Never before have you been able to play as the dungeon!",
+  "authors": [
+    {
+      "name": "Mark Seifter",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/Stonesnake/Battlezoo-Dungeons-PF2-v10",
+  "version": "1.0.2",
+  "flags": {
+    "battlezoo-ancestries-dungeons-pf2e": {
+      "pf2e-homebrew": {
+        "creatureTraits": {
+          "dungeon": "Dungeon"
+        },
+        "featTraits": {
+          "dungeon": "Dungeon"
+        }
+      }
+    }
+  },
+  "packs": [
+    {
+      "label": "Battlezoo Ancestries: Dungeons - Ancestry",
+      "type": "Item",
+      "name": "pf2e-battlezoo-dungeon-ancestry",
+      "path": "packs/pf2e-battlezoo-dungeon-ancestry.db",
+      "system": "pf2e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Battlezoo Ancestries: Dungeons - Heritages",
+      "type": "Item",
+      "name": "pf2e-battlezoo-dungeon-heritages",
+      "path": "packs/pf2e-battlezoo-dungeon-heritages.db",
+      "system": "pf2e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Battlezoo Ancestries: Dungeons - Feats",
+      "type": "Item",
+      "name": "pf2e-battlezoo-dungeon-feats",
+      "path": "packs/pf2e-battlezoo-dungeon-feats.db",
+      "system": "pf2e",
+      "private": false,
+      "flags": {}
+    }
+  ],
+  "manifest": "https://raw.githubusercontent.com/Stonesnake/Battlezoo-Dungeons/master/module.json",
+  "download": "https://github.com/Stonesnake/Battlezoo-Dungeons-PF2/archive/refs/heads/main.zip",
+  "id": "battlezoo-ancestries-dungeons-pf2e",
+  "compatibility": {
+    "minimum": "10"
+  }
+}

@@ -1,0 +1,7 @@
+# Battlezoo Ancestries: Dungeons
+
+While originally synonymous with a jail or prison, the word “dungeon” has come to mean something altogether more dangerous and expansive. Ancient labyrinths filled with puzzles, traps, and monsters, mystical towers stretching into the sky above, cavern systems echoing with the sounds of distant danger; all of these and more are considered dungeons. A dungeon has come to mean just about any natural or artificial complex full of treasures and dangers. But to you, a dungeon means even more than that. A dungeon is also who you are...
+
+With Battlezoo Ancestries Dungeons, the power of dungeons is in your hands. With the dungeon ancestry, play as a dungeon who awakened to sentience and then sapience, with a life force, a spirit, and even an avatar that you can use to interact with the world. Five heritages allow you to play all sorts of dungeons, from an archipelago where each “floor” is a separate island to a mysterious labyrinth or dank caverns, from a tower ascending to the heavens to an ancient tree.
+
+Call forth familiars or hazards from your dungeon, challenge the dungeon within you to learn more about your inner self and unlock special benefits for you and your allies, or even conquer one of the floors inside your dungeon and become an overlord, setting up a home away from home where monsters and traps wait on you. Never before have you been able to play as the dungeon!
