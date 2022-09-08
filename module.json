@@ -51,8 +51,8 @@
       "flags": {}
     }
   ],
-  "manifest": "https://raw.githubusercontent.com/Stonesnake/Battlezoo-Dungeons/master/module.json",
-  "download": "https://github.com/Stonesnake/Battlezoo-Dungeons-PF2/archive/refs/heads/main.zip",
+  "manifest": "https://github.com/Stonesnake/Battlezoo-Dungeons-PF2-v10/blob/main/module.json",
+  "download": "https://github.com/Stonesnake/Battlezoo-Dungeons-PF2-v10/archive/refs/heads/main.zip",
   "id": "battlezoo-ancestries-dungeons-pf2e",
   "compatibility": {
     "minimum": "10"
