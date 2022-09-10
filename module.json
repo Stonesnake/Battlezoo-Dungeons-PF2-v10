@@ -51,7 +51,7 @@
       "flags": {}
     }
   ],
-  "manifest": "https://github.com/Stonesnake/Battlezoo-Dungeons-PF2-v10/blob/main/module.json",
+  "manifest": "https://raw.githubusercontent.com/Stonesnake/Battlezoo-Dungeons-PF2-v10/main/module.json",
   "download": "https://github.com/Stonesnake/Battlezoo-Dungeons-PF2-v10/archive/refs/heads/main.zip",
   "id": "battlezoo-ancestries-dungeons-pf2e",
   "compatibility": {
