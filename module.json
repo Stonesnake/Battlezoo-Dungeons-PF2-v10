@@ -9,7 +9,7 @@
     }
   ],
   "url": "https://github.com/Stonesnake/Battlezoo-Dungeons-PF2-v10",
-  "version": "1.0.2",
+  "version": "1.1",
   "flags": {
     "battlezoo-ancestries-dungeons-pf2e": {
       "pf2e-homebrew": {
@@ -54,7 +54,19 @@
   "manifest": "https://raw.githubusercontent.com/Stonesnake/Battlezoo-Dungeons-PF2-v10/main/module.json",
   "download": "https://github.com/Stonesnake/Battlezoo-Dungeons-PF2-v10/archive/refs/heads/main.zip",
   "id": "battlezoo-ancestries-dungeons-pf2e",
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "4.11"
+        }
+      }
+    ]
+  },
   "compatibility": {
-    "minimum": "10"
+    "minimum": "10.291",
+    "verified": "10.291"
   }
 }
